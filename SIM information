@@ -1,0 +1,11 @@
+
+Pkg update
+Pkg upgrade
+Pkg install wget
+Pkg install lolcat
+Pkg install toilet
+git clone https://github.com/Hakeraman/SIM information 
+chmod +x * target.sh 
+bash target.sh
+
+
